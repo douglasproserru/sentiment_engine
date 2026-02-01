@@ -37,6 +37,6 @@ You only need basic Python and the following data science libraries;
 pandas, matplotlib
 pip install pandas matplotlib numpy
 ### the order of running these files
-python posts_generator.py
-python analysis_engines.py
-python visualisations.py
+1. python posts_generator.py
+2. python analysis_engines.py
+3. python visualisations.py
